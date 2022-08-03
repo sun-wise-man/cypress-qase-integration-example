@@ -1,0 +1,13 @@
+{
+    "watchForFileChanges":false,
+    "reporter": "cypress-qase-reporter",
+    "reporterOptions": {
+        "apiToken": "a72e39899cfacbb5738e6dd178e39ef9df10dd90",
+        "projectCode": "QCI",
+        "logging": true,
+        "runComplete": true,
+        "sendScreenshot": true
+    },
+    "screenshotOnRunFailure":true
+    
+}

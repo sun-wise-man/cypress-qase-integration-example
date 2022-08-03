@@ -1,0 +1,17 @@
+{
+  "name": "todomvc-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open",
+    "test": "cypress run --spec cypress/integration/todomvc-actions.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.7.0",
+    "cypress-qase-reporter": "^1.4.2-alpha.2"
+  }
+}
